@@ -7,3 +7,7 @@ This report includes data for actuals, budget and forecast, allowing you to see 
 But this report isn't just for finance professionals. Anyone who wants to better understand how their company's resources are being used can benefit from this information. By understanding the budget and how it's allocated, employees can make informed suggestions for how to improve the company's bottom line.
 
 So don't get overwhelmed by financial data. Use this Power BI report to gain valuable insights and make informed decisions about your organization's finances. Whether you're a finance professional, a department head, or just someone who wants to better understand how your company's resources are being used, this report is the perfect tool for you.
+
+
+### Technology
+* Power BI
